@@ -1,0 +1,12 @@
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Debug\FlowerShopClasses.dll
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Debug\FlowerShopClasses.pdb
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditUserForm.resources
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParentForm.resources
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

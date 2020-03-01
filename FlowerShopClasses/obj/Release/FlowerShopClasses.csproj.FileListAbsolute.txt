@@ -1,0 +1,16 @@
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\bin\Release\FlowerShopClasses.dll
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\bin\Release\FlowerShopClasses.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\obj\Release\FlowerShopClasses.dll
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\obj\Release\FlowerShopClasses.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\obj\Release\FlowerShopClasses.csprojResolveAssemblyReference.cache
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\FlowerShopClasses\bin\Release\FlowerShopClasses.dll
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\FlowerShopClasses\bin\Release\FlowerShopClasses.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\FlowerShopClasses\obj\Release\FlowerShopClasses.csprojResolveAssemblyReference.cache
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\FlowerShopClasses\obj\Release\FlowerShopClasses.dll
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\FlowerShopClasses\obj\Release\FlowerShopClasses.pdb
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\FlowerShopClasses\bin\Release\FlowerShopClasses.dll
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\FlowerShopClasses\bin\Release\FlowerShopClasses.pdb
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\FlowerShopClasses\obj\Release\FlowerShopClasses.csprojAssemblyReference.cache
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\FlowerShopClasses\obj\Release\FlowerShopClasses.csproj.CoreCompileInputs.cache
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\FlowerShopClasses\obj\Release\FlowerShopClasses.dll
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\FlowerShopClasses\obj\Release\FlowerShopClasses.pdb

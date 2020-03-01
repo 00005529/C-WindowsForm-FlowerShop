@@ -1,0 +1,4 @@
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\bin\Debug\FlowerShopClasses.dll
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\bin\Debug\FlowerShopClasses.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\obj\Debug\FlowerShopClasses.dll
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\FlowerShopClasses\obj\Debug\FlowerShopClasses.pdb

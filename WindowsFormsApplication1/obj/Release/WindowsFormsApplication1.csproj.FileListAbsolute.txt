@@ -1,0 +1,43 @@
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Release\FlowerShopClasses.dll
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\bin\Release\FlowerShopClasses.pdb
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AllUsersForm.resources
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EditUserForm.resources
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ParentForm.resources
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+c:\users\akmal\documents\visual studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AllFlowersForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EditFlowersForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EditBouquetForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddFlower.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\bin\Release\FlowerShopClasses.dll
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\bin\Release\FlowerShopClasses.pdb
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddFlower.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AllFlowersForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AllUsersForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EditBouquetForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EditFlowersForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EditUserForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ParentForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddQuanToBouquetFlowersForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DeliverHistoryForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\FlowerShopClasses — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AllOrdersForm.resources
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\SAD_CW1_2018-2019_5529\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\SAD_CW1_2018-2019_5529\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Akmal\Documents\Visual Studio 2015\Projects\SAD_CW1_2018-2019_5529\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\SAD_CW1_2018_2019_5529\SAD_CW1_2018-2019_5529\SAD_CW1_2018-2019_5529\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
