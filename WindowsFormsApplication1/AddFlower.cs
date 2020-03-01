@@ -19,6 +19,7 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
             nDeliver = new Deliver();
+		private int iii=13;
             if (flw == null)
             {
                 this.Close();
@@ -30,7 +31,7 @@ namespace WindowsFormsApplication1
             cmbVendors.DataSource = userBindingSource;
             employeeBindingSource.DataSource = FlowerShopClasses.Shop.GetShop().Users.Where(u => u.UserType == "Employee");
             cmbReciever.DataSource = employeeBindingSource;
-
+		
         }
 
         private void AddFlower_Load(object sender, EventArgs e)
